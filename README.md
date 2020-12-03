@@ -2,4 +2,4 @@
 
 This repository includes the software code for the frequency model for metro lines under the pandemic-imposed capacity limitations.
 
-The source code is in the file 
+The source code is in the file "vehicle_assignment_model.py"
